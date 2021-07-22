@@ -1,0 +1,47 @@
+@media  (max-width:480px){
+    .parte-1{
+       display: none; 
+       
+    }
+    .parte-2{
+        display: none;
+    }
+    .responsive{
+        display: block;
+    }
+     
+}
+@media  (max-width:480px){
+    .bordas-baixo{
+       display: none; 
+       
+    }
+    .bordas-baixo{
+       display: none; 
+    }
+    .responsive{
+        margin-top: 20rem;
+        margin-left: 110px;
+    }
+   html {
+        font-size: 4px; 
+    }
+    #relogio{
+        width: 260px;
+        margin-left: 120px;
+        margin-top: 260px;
+    }
+}
+@media  (min-width:480px){
+    .parte-1{
+       display: block; 
+       
+    }
+    .responsive{
+        display:  none;
+    }
+    .container{
+        display: none;
+    } 
+}
+

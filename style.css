@@ -1,0 +1,62 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+   position: absolute;
+   background: linear-gradient(179.70deg, rgba(39, 206, 243, 0.25) -7.79%, rgba(245, 199, 227, 0.56) 69.93%);
+   height: 100vh;
+   z-index: -1;
+
+}
+.bordas-baixo{
+   position: relative;
+   margin-top: 16.60%;
+   margin-left: 0rem;
+}
+.bordas-cima{
+   position: relative;
+   margin-top: -59.50rem;
+   margin-left: 108.90rem;
+}
+.parte-1{
+   position: absolute;
+   margin-right: 0rem;
+}
+.parte-2{
+   position: absolute;
+   margin-left: 120rem;
+   margin-top: 30rem;
+}
+#relogio{
+   background: rgba(233, 231, 231, 0);
+   font-size:15rem;
+   margin-left: 50rem;
+   height: 60%;
+   margin-top: 4rem;
+   border: solid 0px;
+   width: 54%;
+}
+.nuv-1{
+   position: absolute;
+   margin-top: -200rem;
+   margin-left: 20rem;
+   z-index: -1;
+}
+.nuv-2{
+   position: absolute;
+   margin-top: -120px;
+}
+.rosa{
+   position: absolute;
+   margin-top: -245rem;
+   
+}
+
+
